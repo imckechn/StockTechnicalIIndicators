@@ -1,15 +1,15 @@
 /**
- * What I cant do:
- * average Directional Index -> formula requires itself already????
- * Balance of power -> we don't have opening prices
+ * To do:
+ * average Directional Index
+ * Balance of power 
  * DEMA
  * Hull moving avg
  * tripple exponential moving avg.
- * Volume-by-Price  --> This on is confusing? 12 equal price zones? What does that mean? and Positive and negative volumes, what?
- * Accumulation/ Distribution line -> To get a point you need the points from every day in the past. We can deal with this when we are using it in the ML software. 
- * The Chande Trend Meter (CTM) doesn't have a formula online that I could find
- * Price Relative / Relative Strength -> this is used to just compare two stocks, we can do this on our own using the DB i think, not to mention it's highly customizable so we could make a bunch for this even, check it out https://school.stockcharts.com/doku.php?id=technical_indicators:price_relative
- * RRG Relative Strength -> No formula for this
+ * Volume-by-Price 
+ * Accumulation/ Distribution line
+ * The Chande Trend Meter (CTM) 
+ * Price Relative / Relative Strength 
+ * RRG Relative Strength 
  * 
  */
 
